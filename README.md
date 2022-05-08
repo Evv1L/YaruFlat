@@ -7,5 +7,9 @@ Changes:
 * Ignore inactive state is enabled by default
 * Kvantum SVG theme now uses checkboxes from [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) theme
 
-![Example](/example.png)
-![Another example](/example2.png)
+<table>
+  <tr>
+    <td> <img src="example.png"  alt="1" size = 50% ></td>
+    <td><img src="example2.png" alt="2" size = 50% ></td>
+   </tr> 
+</table>
